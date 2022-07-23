@@ -1,2 +1,3 @@
 # BankAPI
-Bank account api to transfer money
+
+Bank account api to transfer money, ask for a Loan, check balance
